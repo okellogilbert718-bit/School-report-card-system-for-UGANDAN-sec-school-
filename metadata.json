@@ -1,0 +1,6 @@
+{
+  "name": "Uganda EduTrack - O & A Level School System",
+  "description": "Comprehensive Ugandan secondary school academic management system with O-Level & A-Level marks entry, paper options, automated UNEB grading, learner records, and official report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
